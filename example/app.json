@@ -28,6 +28,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": ["@mauro-codes/watermelondb-expo-plugin"]
+    "plugins": ["@maurocodes/watermelondb-expo-plugin"]
   }
 }

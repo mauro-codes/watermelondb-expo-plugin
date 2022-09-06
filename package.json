@@ -1,5 +1,5 @@
 {
-  "name": "@mauro-codes/watermelondb-expo-plugin",
+  "name": "@maurocodes/watermelondb-expo-plugin",
   "version": "1.0.0",
   "main": "build/withWatermelon.js",
   "types": "build/withWatermelon.d.ts",

@@ -17,6 +17,6 @@ In your app.json `plugins` array:
 
 ```json
 {
-  "plugins": ["@mauro-codes/watermelondb-expo-plugin"]
+  "plugins": ["@maurocodes/watermelondb-expo-plugin"]
 }
 ```
